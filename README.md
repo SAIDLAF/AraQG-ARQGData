@@ -8,4 +8,9 @@ This repository provides all resources required to reproduce the experiments and
 
 - ARQGData v1.1 Corpus: The full dataset used for training and evaluation.
 
-All resources are released under the CC BY-NC-SA license, ensuring open access for research and educational purposes while requiring attribution and prohibiting commercial use.
+## License
+
+All resources in this repository, including training scripts, inference notebooks, pretrained checkpoints, and the ARQGData v1.1 corpus, are released under the **[CC BY-NC-SA 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/)**. 
+
+You are free to use, share, and adapt the materials for non-commercial research and educational purposes, provided you give proper attribution and distribute any derivative works under the same license.
+

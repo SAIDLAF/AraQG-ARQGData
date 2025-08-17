@@ -2,7 +2,7 @@ This repository provides all resources required to reproduce the experiments and
 
 - Training Scripts: End-to-end scripts for preprocessing, training, and evaluation.
 
-- Inference Notebooks:Interactive Jupyter notebooks for model inference and analysis.
+- Inference Notebooks: Interactive Jupyter notebooks for model inference and analysis.
 
 - Pretrained Checkpoints: Ready-to-use model weights for direct application or fine-tuning.
 
